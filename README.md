@@ -1,7 +1,7 @@
-# Hyprland Dots
+# hyprlandots
 
-## Firefox
-<p>Go to <code>about:config</code> and enable <bold>vertical tabs</bold>. Catppuccin Firefox Theme (from their official repo).</p>
+## firefox
+go to `about:config` and enable **vertical tabs**. catppuccin firefox theme (from their official repo).
 
-## Discord
-<p>Install OpenAsar. Catppuccin Discord Theme CSS (from their official repo). Old Discord Font CSS.</p>
+## discord
+install openasar. catppuccin discord theme css (from their official repo). old discord font css.
